@@ -1,8 +1,22 @@
-button{
-    margin-left: 15px;
-    border-radius: 50px;
+img{
+    margin-top: 6px;
 }
 
-.button{
-    background-image: url('./../../../assets/imgs/button.png');
+.container{
+    display: inline-flex;
 }
+
+.hours{
+    margin-top: 3px;
+}
+ul{
+    padding-top: 1px;
+    display: flexbox;
+}
+li{
+    margin-bottom: -2px;
+    font-size: 12px;
+    list-style-type: none;
+    margin-left: 620px;
+}
+

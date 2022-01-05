@@ -10,4 +10,6 @@ export class barComponent{
     public button(){
         alert('asoikdopaskdaopskdopaskpdoksopdasd')
     }
+    public date:any = new Date();
+
 }
