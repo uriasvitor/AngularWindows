@@ -8,6 +8,7 @@ import { wallComponent } from './Components/wall/wall.component';
 import { homeComponent } from './Components/home/home.component';
 import { barComponent } from './Components/bar/bar.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MenuComponent } from './Components/menu/menu.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -15,6 +16,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     wallComponent,
     homeComponent,
     barComponent,
+    MenuComponent,
   ],
   imports: [
     BrowserModule,
